@@ -1,65 +1,70 @@
-<div align="center">
+# Olá! 👋
 
-# Olá, eu sou o Victor Machida 👋
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Victorchida&color=blue&style=flat-square&label=Visualizações)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachida/)
-
-</div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=victorchida.victorchida)
 
 ```python
-class VictorMachida:
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class TechProfessional:
+
     def __init__(self):
         self.name = "Victor Machida"
         self.role = "Profissional de Tecnologia"
         self.location = "São Paulo, Brasil"
         self.company = "Getnet"
-        self.focus = [
-            "Desenvolvimento de Software",
-            "Automação de Processos",
-            "Análise e Engenharia de Dados",
-            "Inteligência Artificial",
-        ]
-        self.stack = {
-            "linguagens": ["Python", "SQL"],
-            "frameworks": ["Flask"],
-            "dados_bi": ["Power BI", "Databricks"],
-            "automacao": ["Power Apps", "Power Automate"],
-        }
+        self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
         print("Obrigado pela visita! Bora trocar uma ideia sobre dados e automação 🚀")
 
 
-victor = VictorMachida()
-victor.say_hi()
+me = TechProfessional()
+me.say_hi()
 ```
 
-<div align="center">
+## 🎯 Foco
 
-### 🛠️ Stack & Ferramentas
+- Desenvolvimento de software e automação de processos
+- Análise e engenharia de dados
+- Inteligência artificial aplicada a soluções de negócio
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+## 🔧 Technologies & Tools
 
-### 📊 GitHub Stats
+**Linguagens:**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victorchida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorchida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorchida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**Frameworks & Web:**
 
-### 🏆 Trophies
+![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Victorchida&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+**Dados & BI:**
 
-### 📫 Contato
+![Power BI](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=6aa6f8)
+![Databricks](https://img.shields.io/badge/Data-Databricks-informational?style=flat&logo=databricks&logoColor=white&color=6aa6f8)
 
-[![LinkedIn](https://img.shields.io/badge/-Victor%20Machida-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachida/)
+**Automação:**
 
-</div>
+![Power Apps](https://img.shields.io/badge/Automation-Power_Apps-informational?style=flat&logo=powerapps&logoColor=white&color=6aa6f8)
+![Power Automate](https://img.shields.io/badge/Automation-Power_Automate-informational?style=flat&logo=powerautomate&logoColor=white&color=6aa6f8)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Victorchida&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Victorchida/AtividadeA3-QA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorchida&repo=AtividadeA3-QA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AtividadeA3-QA" />
+</a>
+
+<a href="https://github.com/Victorchida/AboutMe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorchida&repo=AboutMe&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AboutMe" />
+</a>
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachida/)
