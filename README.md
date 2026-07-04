@@ -12,7 +12,7 @@ class TechProfessional:
 
     def __init__(self):
         self.name = "Victor Machida"
-        self.role = "Analytics Engineer"
+        self.role = "Analytics & Data Engineer"
         self.location = "São Paulo, Brasil"
         self.company = "Getnet"
         self.language_spoken = ["pt_BR", "en_US"]
