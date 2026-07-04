@@ -1,6 +1,7 @@
 # Olá! 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=victorchida.victorchida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormachida/)
 
 ```python
 #!/usr/bin/python
@@ -11,7 +12,7 @@ class TechProfessional:
 
     def __init__(self):
         self.name = "Victor Machida"
-        self.role = "Profissional de Tecnologia"
+        self.role = "Analytics Engineer"
         self.location = "São Paulo, Brasil"
         self.company = "Getnet"
         self.language_spoken = ["pt_BR", "en_US"]
@@ -50,20 +51,6 @@ me.say_hi()
 
 ![Power Apps](https://img.shields.io/badge/Automation-Power_Apps-informational?style=flat&logo=powerapps&logoColor=white&color=6aa6f8)
 ![Power Automate](https://img.shields.io/badge/Automation-Power_Automate-informational?style=flat&logo=powerautomate&logoColor=white&color=6aa6f8)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Victorchida&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/Victorchida/AtividadeA3-QA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorchida&repo=AtividadeA3-QA&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AtividadeA3-QA" />
-</a>
-
-<a href="https://github.com/Victorchida/AboutMe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Victorchida&repo=AboutMe&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AboutMe" />
-</a>
 
 ## 📫 Contato
 
